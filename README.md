@@ -34,5 +34,5 @@ Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/udochukwu-sinclair-82bb4a200/)
 - [Twitter](https://twitter.com/sinkycode)
 - [Email](mosfreshlafrosh@gmail.com)
-
-![alt image](https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif?cid=ecf05e47ory2mreht6uihtgfji5268lsjerko71e1s05sc0j&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+  
+![alt image](https://media.giphy.com/media/rXzNT5cYgdhLQ68xu7/giphy.gif?cid=ecf05e47jkxsoq9a9q0h2irp4en74iq1ns01x3vpo7lpg5b8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
