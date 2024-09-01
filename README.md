@@ -13,10 +13,10 @@ I'm a passionate web developer with a background in computer science. I speciali
 ## 🌐 Projects
 Here are some of the projects I've worked on:
 
-1. **[Officially Greener](officially-greener-iota.vercel.app)**  
+1. **[Officially Greener](https://officially-greener-iota.vercel.app/)**  
    This is just a project model which was given to me by a client [Luke chapman](https://www.linkedin.com/in/lukemchapman/) the CEO of *Earth Broadband*
 
-2. **[Evangel university blog](evangel-blog.vercel.app)**  
+2. **[Evangel university blog](https://evangel-blog.vercel.app/)**  
   An interactive educational blogging system to consider by the university, which I'm presenting as my project defense.
 
 
